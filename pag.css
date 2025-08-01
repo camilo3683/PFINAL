@@ -74,7 +74,7 @@ body {
 /* --------------------- HERO ---------------------- */
 .hero {
     height: 10vh;
-    background: url('/imagenes/fondo\ 2.png') no-repeat center center/cover;
+    background: url('../CATALOGO/imagenes/fondo2.png') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
